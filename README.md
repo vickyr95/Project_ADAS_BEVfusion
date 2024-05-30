@@ -6,4 +6,4 @@ Achievements include the implementation of real-time map integration, lane detec
 
 The simulation transitioned from ROS2 and RVIZ to Autoware to align with client specifications, ultimately realizing the goal of creating a semi autonomous car in a simulated environment.
 
-![BEV-ROS-demo]([https://github.com/vickyr95/Project_ADAS_BEVfusion/blob/main/BEV-ROS-demo.gif])
+![BEV-ROS-demo](https://github.com/vickyr95/Project_ADAS_BEVfusion/blob/main/BEV-ROS-demo.gif)
