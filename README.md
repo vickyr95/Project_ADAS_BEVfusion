@@ -21,4 +21,6 @@ The demo includes snapshots of our visualizations. The source code has been subm
 - Gained insights into Autoware, multicamera, and sensor fusion technology, and their applications in Advanced Driver Assistance Systems (ADAS).
 - Refreshed our skills in ROS2 through this project.
 
+![BEV-ROS-demo2](https://github.com/vickyr95/Project_ADAS_BEVfusion/blob/main/BEV-ROS-demo2.gif)
+
 ![BEV-ROS-demo](https://github.com/vickyr95/Project_ADAS_BEVfusion/blob/main/BEV-ROS-demo.gif)
